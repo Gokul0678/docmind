@@ -1,8 +1,12 @@
 # DocMind – Chat with Your Documents (RAG) · React, Node.js, PostgreSQL, LLM API
 
-Upload PDFs or text files, ask questions in plain English, and get **streamed answers with numbered citations** that link back to the exact passages used. Answers come only from your documents.
+Upload PDFs or text files, ask questions in plain English, and get **streamed answers with numbered citations** that link back to the exact passages used. Answers are based on your documents, and anything that is not from them is clearly labelled.
 
-**Live demo:** _add your Vercel link_  |  **API:** _add your Render link_
+**Live demo:** [docmind-sooty-three.vercel.app](https://docmind-sooty-three.vercel.app) &nbsp;|&nbsp; **API:** [docmind-api-vhb9.onrender.com](https://docmind-api-vhb9.onrender.com/api/health)
+
+> Hosted on free tiers (Vercel, Render and Neon), so the first load after a quiet period can take up to ~30 seconds while the server wakes up.
+>
+> **Privacy:** this is a public demo. Uploaded documents are stored in the demo database and sent to an AI provider to answer questions, so please do not upload anything private. Use a sample file instead.
 
 ## Screenshots
 
